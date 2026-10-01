@@ -1,6 +1,5 @@
-# Signal Modulator
-
-Signal Modulator is an original Adobe After Effects effect plugin project for signal-style image modulation workflows.
+# modal
+modal is an original Adobe After Effects effect plugin project for signal-style image modulation workflows.
 
 ## Current milestone
 
